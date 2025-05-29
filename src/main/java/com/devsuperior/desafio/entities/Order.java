@@ -1,6 +1,5 @@
 package com.devsuperior.desafio.entities;
 
-import org.springframework.stereotype.Service;
 
 
 public class Order {
