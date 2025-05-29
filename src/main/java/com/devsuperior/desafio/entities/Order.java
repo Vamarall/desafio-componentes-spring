@@ -2,7 +2,7 @@ package com.devsuperior.desafio.entities;
 
 import org.springframework.stereotype.Service;
 
-@Service
+
 public class Order {
 
     private Integer code;
